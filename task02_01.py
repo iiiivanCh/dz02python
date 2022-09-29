@@ -4,9 +4,6 @@
 # - 6782 -> 23
 # - 0,56 -> 11
 
-from operator import iadd
-
-
 def get_user_number(str_1):
     while True:
         try:
